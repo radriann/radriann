@@ -26,10 +26,13 @@ My pronouns: He/Him.
 <img src="https://raw.githubusercontent.com/LaindomJS/LaindomJS/master/assets/react-js.svg" width="40px" />
 <img src="https://raw.githubusercontent.com/LaindomJS/LaindomJS/master/assets/vue-js.svg" width="40px" />
 <img src="https://raw.githubusercontent.com/LaindomJS/LaindomJS/master/assets/jquery.svg" width="50px" />
+<img src="https://raw.githubusercontent.com/LaindomJS/LaindomJS/master/python-5.svg" width="40px" />
 </p>
 
 
 <h2 align="center">Contact Me</h2>
 
 <p align="center">
+  
+  </p>
   
