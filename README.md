@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi! I'm Lain.</h1> 
-<h3 align="center">FrontEnd Developer.</h2>
+<h3 align="center">Frontend Developer.</h2>
 
 I love play videogames, programming, write and create solutions to problems. 
 
