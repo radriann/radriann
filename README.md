@@ -24,7 +24,6 @@ My pronouns: He/Him.
 <img src="https://raw.githubusercontent.com/LaindomJS/LaindomJS/master/assets/CSS3.png" width="45px" />
 <img src="https://raw.githubusercontent.com/LaindomJS/LaindomJS/master/assets/javascript.png" width="45px" />
 <img src="https://raw.githubusercontent.com/LaindomJS/LaindomJS/master/assets/react-js.svg" width="40px" />
-<img src="https://raw.githubusercontent.com/LaindomJS/LaindomJS/master/assets/vue-js.svg" width="40px" />
 <img src="https://raw.githubusercontent.com/LaindomJS/LaindomJS/master/python-5.svg" width="40px" />
   <img src="https://raw.githubusercontent.com/LaindomJS/LaindomJS/master/tailwindcss-icon.svg" width="40px" margin-right="5px"/>
 </p>
