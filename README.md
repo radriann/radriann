@@ -6,9 +6,9 @@
 
 I love play videogames, programming, write and create solutions to problems. 
 
-I am passionate about technology and programming. I consider myself a curious person.
+I love all about technology and programming. I consider myself a curious, logical and calm person.
 
-I'm currently learning ReactJS and TailwindCSS and improving my knowledges.
+I'm currently practing React and Tailwind, learning Node (Express, MongoDB) and practing Unit Tests. Sometimes, i code in Python. 
 
 My pronouns: He/Him.
 
