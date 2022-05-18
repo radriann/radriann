@@ -32,9 +32,4 @@ My pronouns: He/Him.
 </p>
 
 
-<h2 align="center">Contact Me</h2>
-
-<p align="center">
-  
-  </p>
-  
+<a href="https://app.daily.dev/lainJS"><img src="https://api.daily.dev/devcards/b479e175d8a44e5eaab69a0fa7b4ce14.png?r=wgx" width="400" alt="Adrian Rangel's Dev Card"/></a>
