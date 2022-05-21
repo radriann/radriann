@@ -2,13 +2,15 @@
 
 
 <h1 align="center">Hi! I'm Lain.</h1> 
-<h3 align="center">Frontend Developer.</h2>
+<h3 align="center">Frontend Developer. (MERN Stack)</h2>
 
 I love play videogames, programming, write and create solutions to problems. 
 
-I love all about technology and programming. I consider myself a curious, logical and calm person.
+I consider myself a curious, thoughtful, organized and logical person.
 
-I'm currently practing React and Tailwind, learning Node (Express, MongoDB) and practing Unit Tests. Sometimes, i code in Python. 
+I am currently practicing React while starting my studies in Node and the technologies that are used together with it.
+
+My goals are to find a job and help through it while meeting my goals and objectives.
 
 My pronouns: He/Him.
 
@@ -30,6 +32,3 @@ My pronouns: He/Him.
 <img src="https://raw.githubusercontent.com/LaindomJS/LaindomJS/master/npm.svg" width="46px" />
 <img src="https://raw.githubusercontent.com/LaindomJS/LaindomJS/master/visualstudiocode.svg" width="40px" />
 </p>
-
-
-<a href="https://app.daily.dev/lainJS"><img src="https://api.daily.dev/devcards/b479e175d8a44e5eaab69a0fa7b4ce14.png?r=wgx" width="400" alt="Adrian Rangel's Dev Card"/></a>
