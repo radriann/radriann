@@ -31,4 +31,5 @@ My pronouns: He/Him.
 <img src="https://raw.githubusercontent.com/LaindomJS/LaindomJS/master/nodejs-icon.svg" width="40px" margin-right="5px"/>
 <img src="https://raw.githubusercontent.com/LaindomJS/LaindomJS/master/npm.svg" width="46px" />
 <img src="https://raw.githubusercontent.com/LaindomJS/LaindomJS/master/visualstudiocode.svg" width="40px" />
+ <img src="https://raw.githubusercontent.com/LaindomJS/LaindomJS/master/vite-seeklogo.com.svg" width="40px" />
 </p>
