@@ -22,14 +22,15 @@ My pronouns: He/Him.
 
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/LaindomJS/LaindomJS/master/assets/html5.svg" width="45px" />
-<img src="https://raw.githubusercontent.com/LaindomJS/LaindomJS/master/assets/CSS3.png" width="45px" />
-<img src="https://raw.githubusercontent.com/LaindomJS/LaindomJS/master/assets/javascript.png" width="45px" />
-<img src="https://raw.githubusercontent.com/LaindomJS/LaindomJS/master/assets/react-js.svg" width="44px" />
-<img src="https://raw.githubusercontent.com/LaindomJS/LaindomJS/master/python-5.svg" width="40px" />
+<img src="https://raw.githubusercontent.com/LaindomJS/LaindomJS/master/assets/html5.svg" width="45px" margin-right="5px" />
+<img src="https://raw.githubusercontent.com/LaindomJS/LaindomJS/master/assets/CSS3.png" width="45px" margin-right="5px" />
+<img src="https://raw.githubusercontent.com/LaindomJS/LaindomJS/master/assets/javascript.png" width="45px" margin-right="5px" />
+<img src="https://raw.githubusercontent.com/LaindomJS/LaindomJS/master/assets/react-js.svg" width="44px" margin-right="5px" />
+<img src="https://raw.githubusercontent.com/LaindomJS/LaindomJS/master/python-5.svg" width="40px" margin-right="5px" />
 <img src="https://raw.githubusercontent.com/LaindomJS/LaindomJS/master/tailwindcss-icon.svg" width="40px" margin-right="5px"/>
 <img src="https://raw.githubusercontent.com/LaindomJS/LaindomJS/master/nodejs-icon.svg" width="40px" margin-right="5px"/>
-<img src="https://raw.githubusercontent.com/LaindomJS/LaindomJS/master/npm.svg" width="46px" />
-<img src="https://raw.githubusercontent.com/LaindomJS/LaindomJS/master/visualstudiocode.svg" width="40px" />
- <img src="https://raw.githubusercontent.com/LaindomJS/LaindomJS/master/vite-seeklogo.com.svg" width="40px" />
+<img src="https://raw.githubusercontent.com/LaindomJS/LaindomJS/master/npm.svg" width="46px" margin-right="5px" />
+<img src="https://raw.githubusercontent.com/LaindomJS/LaindomJS/master/visualstudiocode.svg" width="40px" margin-right="5px" />
+<img src="https://raw.githubusercontent.com/LaindomJS/LaindomJS/master/vite-seeklogo.com.svg" width="40px" margin-right="5px" />
+<img src="https://raw.githubusercontent.com/LaindomJS/LaindomJS/master/next-js-seeklogo.com.svg" width="40px" margin-right="5px" />
 </p>
