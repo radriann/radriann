@@ -42,5 +42,6 @@ My pronouns: He/Him.
 
 
 <h2 align="center">GitHub Stats</h2>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=laindomJS&theme=gruvbox&date_format=j%20M%5B%20Y%5D&locale=es)](https://git.io/streak-stats)
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=laindomJS&theme=gruvbox&date_format=j%20M%5B%20Y%5D&locale=es" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laindomJS&show_icons=true&theme=gruvbox" /></p>
 
