@@ -4,33 +4,37 @@
 <h1 align="center">Hi! I'm Lain.</h1> 
 <h3 align="center">Frontend Developer. (MERN Stack)</h2>
 
-I love play videogames, programming, write and create solutions to problems. 
+I love play videogames.👾,
+Literature 📚,
+Programming 💻,
+Puzzles 🤔,
+and create solutions to problems. 🐱‍🏍
 
-I consider myself a curious, thoughtful, organized and logical person.
-
+I love learning and putting into practice everything I learn, as well as helping others in whatever they need.
 I am currently practicing React while starting my studies in Node and the technologies that are used together with it.
 
-My goals are to find a job and help through it while meeting my goals and objectives.
+✔ My goals are to find a job and help through it while meeting my goals and objectives.
 
 My pronouns: He/Him.
 
 ⚡ Fun fact: My first programming language was Python.
 
 
-<h2 align="center">My Skils</h2>
-<p align="center">List of my skils:</p>
+<h2 align="center">Skills</h2>
 
+<div align="center">
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/LaindomJS/LaindomJS/master/assets/html5.svg" width="45px" margin-right="5px" />
-<img src="https://raw.githubusercontent.com/LaindomJS/LaindomJS/master/assets/CSS3.png" width="45px" margin-right="5px" />
-<img src="https://raw.githubusercontent.com/LaindomJS/LaindomJS/master/assets/javascript.png" width="45px" margin-right="5px" />
-<img src="https://raw.githubusercontent.com/LaindomJS/LaindomJS/master/assets/react-js.svg" width="44px" margin-right="5px" />
-<img src="https://raw.githubusercontent.com/LaindomJS/LaindomJS/master/python-5.svg" width="40px" margin-right="5px" />
-<img src="https://raw.githubusercontent.com/LaindomJS/LaindomJS/master/tailwindcss-icon.svg" width="40px" margin-right="5px"/>
-<img src="https://raw.githubusercontent.com/LaindomJS/LaindomJS/master/nodejs-icon.svg" width="40px" margin-right="5px"/>
-<img src="https://raw.githubusercontent.com/LaindomJS/LaindomJS/master/npm.svg" width="46px" margin-right="5px" />
-<img src="https://raw.githubusercontent.com/LaindomJS/LaindomJS/master/visualstudiocode.svg" width="40px" margin-right="5px" />
-<img src="https://raw.githubusercontent.com/LaindomJS/LaindomJS/master/vite-seeklogo.com.svg" width="40px" margin-right="5px" />
-<img src="https://raw.githubusercontent.com/LaindomJS/LaindomJS/master/next-js-seeklogo.com.svg" width="40px" margin-right="5px" />
-</p>
+<p align="center">This is a list of my skils/stack</p>
+
+<img src="https://raw.githubusercontent.com/LaindomJS/LaindomJS/master/assets/html5.svg" width="45px" margin="12px" />
+<img src="https://raw.githubusercontent.com/LaindomJS/LaindomJS/master/assets/CSS3.png" width="45px" margin="12px" />
+<img src="https://raw.githubusercontent.com/LaindomJS/LaindomJS/master/assets/javascript.png" width="45px" margin="12px" />
+<img src="https://raw.githubusercontent.com/LaindomJS/LaindomJS/master/assets/react-js.svg" width="44px" margin="12px" />
+<img src="https://raw.githubusercontent.com/LaindomJS/LaindomJS/master/python-5.svg" width="40px" margin="12px" />
+<img src="https://raw.githubusercontent.com/LaindomJS/LaindomJS/master/tailwindcss-icon.svg" width="40px" margin="12px"/>
+<img src="https://raw.githubusercontent.com/LaindomJS/LaindomJS/master/nodejs-icon.svg" width="40px" margin="12px"/>
+<img src="https://raw.githubusercontent.com/LaindomJS/LaindomJS/master/npm.svg" width="46px" margin="12px" />
+<img src="https://raw.githubusercontent.com/LaindomJS/LaindomJS/master/visualstudiocode.svg" width="40px" margin="12px" />
+<img src="https://raw.githubusercontent.com/LaindomJS/LaindomJS/master/vite-seeklogo.com.svg" width="40px" margin="12px" />
+<img src="https://raw.githubusercontent.com/LaindomJS/LaindomJS/master/next-js-seeklogo.com.svg" width="40px" margin="12px" />
+</div>
