@@ -24,17 +24,22 @@ My pronouns: He/Him.
 
 <div align="center">
 
-<p align="center">This is a list of my skils/stack</p>
+  <img src="https://raw.githubusercontent.com/LaindomJS/LaindomJS/master/ikigai-office-worker-with-large-amount-of-work.png" width="260px" height="230px" />
+  <p align="center" font-weight="bold">This is a list of my skils/stack</p>
 
-<img src="https://raw.githubusercontent.com/LaindomJS/LaindomJS/master/assets/html5.svg" width="45px" margin="12px" />
-<img src="https://raw.githubusercontent.com/LaindomJS/LaindomJS/master/assets/CSS3.png" width="45px" margin="12px" />
-<img src="https://raw.githubusercontent.com/LaindomJS/LaindomJS/master/assets/javascript.png" width="45px" margin="12px" />
-<img src="https://raw.githubusercontent.com/LaindomJS/LaindomJS/master/assets/react-js.svg" width="44px" margin="12px" />
-<img src="https://raw.githubusercontent.com/LaindomJS/LaindomJS/master/python-5.svg" width="40px" margin="12px" />
-<img src="https://raw.githubusercontent.com/LaindomJS/LaindomJS/master/tailwindcss-icon.svg" width="40px" margin="12px"/>
-<img src="https://raw.githubusercontent.com/LaindomJS/LaindomJS/master/nodejs-icon.svg" width="40px" margin="12px"/>
-<img src="https://raw.githubusercontent.com/LaindomJS/LaindomJS/master/npm.svg" width="46px" margin="12px" />
-<img src="https://raw.githubusercontent.com/LaindomJS/LaindomJS/master/visualstudiocode.svg" width="40px" margin="12px" />
-<img src="https://raw.githubusercontent.com/LaindomJS/LaindomJS/master/vite-seeklogo.com.svg" width="40px" margin="12px" />
-<img src="https://raw.githubusercontent.com/LaindomJS/LaindomJS/master/next-js-seeklogo.com.svg" width="40px" margin="12px" />
+  <img src="https://raw.githubusercontent.com/LaindomJS/LaindomJS/master/assets/html5.svg" width="45px" margin="12px" />
+  <img src="https://raw.githubusercontent.com/LaindomJS/LaindomJS/master/assets/CSS3.png" width="45px" margin="12px" />
+  <img src="https://raw.githubusercontent.com/LaindomJS/LaindomJS/master/assets/javascript.png" width="45px" margin="12px" />
+  <img src="https://raw.githubusercontent.com/LaindomJS/LaindomJS/master/assets/react-js.svg" width="44px" margin="12px" />
+  <img src="https://raw.githubusercontent.com/LaindomJS/LaindomJS/master/python-5.svg" width="40px" margin="12px" />
+  <img src="https://raw.githubusercontent.com/LaindomJS/LaindomJS/master/tailwindcss-icon.svg" width="40px" margin="12px"/>
+  <img src="https://raw.githubusercontent.com/LaindomJS/LaindomJS/master/nodejs-icon.svg" width="40px" margin="12px"/>
+  <img src="https://raw.githubusercontent.com/LaindomJS/LaindomJS/master/npm.svg" width="46px" margin="12px" />
+  <img src="https://raw.githubusercontent.com/LaindomJS/LaindomJS/master/visualstudiocode.svg" width="40px" margin="12px" />
+  <img src="https://raw.githubusercontent.com/LaindomJS/LaindomJS/master/vite-seeklogo.com.svg" width="40px" margin="12px" />
+  <img src="https://raw.githubusercontent.com/LaindomJS/LaindomJS/master/next-js-logo-8FCFF51DD2-seeklogo.com.png" width="40px" margin="12px" />
+</div>
+
+<div align="center">
+  <h2 align="center">My pinned repositories</h2>
 </div>
