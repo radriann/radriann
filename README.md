@@ -32,6 +32,7 @@ My pronouns: He/Him.
   <img src="https://raw.githubusercontent.com/LaindomJS/LaindomJS/master/assets/javascript.png" width="65px" />
   <img src="https://raw.githubusercontent.com/LaindomJS/LaindomJS/master/typescript.svg" width="50px" />
   <img src="https://raw.githubusercontent.com/LaindomJS/LaindomJS/master/assets/react-js.svg" width="55px" />
+  <img src="https://raw.githubusercontent.com/LaindomJS/LaindomJS/master/Svelte_Logo.svg" width="45px" />
   <img src="https://raw.githubusercontent.com/LaindomJS/LaindomJS/master/tailwindcss-icon.svg" width="55px" />
   <img src="https://raw.githubusercontent.com/LaindomJS/LaindomJS/master/next-js-logo-8FCFF51DD2-seeklogo.com.png" width="55px" />
   <img src="https://raw.githubusercontent.com/LaindomJS/LaindomJS/master/nodejs-icon.svg" width="45px" />
