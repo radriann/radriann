@@ -4,18 +4,16 @@
 <h1 align="center">Hi! I'm Lain.</h1> 
 <h3 align="center">Frontend Developer. (MERN Stack)</h2>
 
-I love play videogames.👾,
-Literature 📚,
-Programming 💻,
-Puzzles 🤔,
-and create solutions to problems. 🐱‍🏍
+- I love play videogames.👾,
+- Literature 📚,
+- Programming 💻,
+- Puzzles 🤔,
+- Create solutions to problems. 🐱‍🏍
 
-I love learning and putting into practice everything I learn, as well as helping others in whatever they need.
-I am currently practicing React while starting my studies in Node and the technologies that are used together with it.
+<p>I am FrontEnd Developer specialized in technologies such as JavaScript, TypeScript, ReactJS, Svelte.</p>
+<p>I love learning and putting into practice everything I learn, as well as helping others in whatever they need. My goal is find a job in a company as a Jr. FrontEnd Developer. Become a part of a great team and grow creating and developing applications, solutions and webs.</p>
 
-✔ My goals are to find a job and help through it while meeting my goals and objectives.
-
-My pronouns: He/Him.
+<span>My pronouns: He/Him.</span>
 
 ⚡ Fun fact: My first programming language was Python.
 
