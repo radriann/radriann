@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi! I'm Lain.</h1> 
-<h3 align="center">Frontend Developer. (MERN Stack)</h2>
+<h3 align="center">Frontend Developer. (React)</h2>
 
 - I love play videogames.👾,
 - Literature 📚,
@@ -15,7 +15,8 @@
 
 <span>My pronouns: He/Him.</span>
 
-⚡ Fun fact: My first programming language was Python.
+- ⚡ Fun fact: My first programming language was Python.
+- 📖 Actually Studying: MERN Stack
 
 
 <h2 align="center">Skills</h2>
