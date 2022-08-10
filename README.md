@@ -24,7 +24,7 @@
 <div align="center">
 
   <img src="https://raw.githubusercontent.com/LaindomJS/LaindomJS/master/ikigai-office-worker-with-large-amount-of-work.png" width="260px" height="230px" />
-  <p align="center" font-weight="bold">This is a list of my skils/stack</p>
+  <p align="center" font-weight="bold">This is a list of my skils and toolsk</p>
 
   <img src="https://raw.githubusercontent.com/LaindomJS/LaindomJS/master/assets/html5.svg" width="65px" />
   <img src="https://raw.githubusercontent.com/LaindomJS/LaindomJS/master/assets/CSS3.png" width="65px" />
@@ -32,11 +32,10 @@
   <img src="https://raw.githubusercontent.com/LaindomJS/LaindomJS/master/typescript.svg" width="50px" />
   <img src="https://raw.githubusercontent.com/LaindomJS/LaindomJS/master/assets/react-js.svg" width="55px" />
   <img src="https://raw.githubusercontent.com/LaindomJS/LaindomJS/master/Svelte_Logo.svg" width="45px" />
+  <img src="https://raw.githubusercontent.com/LaindomJS/LaindomJS/master/Sass_Logo_Color.svg" width="55px" />
   <img src="https://raw.githubusercontent.com/LaindomJS/LaindomJS/master/tailwindcss-icon.svg" width="55px" />
-  <img src="https://raw.githubusercontent.com/LaindomJS/LaindomJS/master/next-js-logo-8FCFF51DD2-seeklogo.com.png" width="55px" />
   <img src="https://raw.githubusercontent.com/LaindomJS/LaindomJS/master/nodejs-icon.svg" width="45px" />
   <img src="https://raw.githubusercontent.com/LaindomJS/LaindomJS/master/npm.svg" width="55px" />
-  <img src="https://raw.githubusercontent.com/LaindomJS/LaindomJS/master/Deno.svg" width="65px" />
   <img src="https://raw.githubusercontent.com/LaindomJS/LaindomJS/master/visualstudiocode.svg" width="55px" />
   <img src="https://raw.githubusercontent.com/LaindomJS/LaindomJS/master/vite-seeklogo.com.svg" width="55px" />
   <img src="https://raw.githubusercontent.com/LaindomJS/LaindomJS/master/python-5.svg" width="55px" />
