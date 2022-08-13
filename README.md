@@ -1,4 +1,4 @@
-<img src="./assets/jack frost.png" width="30%" align="right">
+<img src="./assets/isaac.gif" width="30%" align="right">
 
 
 <h1 align="center">Hi! I'm Lain.</h1> 
