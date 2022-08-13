@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/LaindomJS/LaindomJS/master/assets/jack frost.png" width="30%" align="right">
+<img src="./assets/jack frost.png" width="30%" align="right">
 
 
 <h1 align="center">Hi! I'm Lain.</h1> 
@@ -11,34 +11,33 @@
 - Create solutions to problems. 🐱‍🏍
 
 <p>I am FrontEnd Developer specialized in technologies such as JavaScript, TypeScript, ReactJS, Svelte.</p>
-<p>I love learning and putting into practice everything I learn, as well as helping others in whatever they need. My goal is find a job in a company as a Jr. FrontEnd Developer. Become a part of a great team and grow creating and developing applications, solutions and webs.</p>
+<p align="right">I love learning and putting into practice everything I learn, as well as helping others in whatever they need. My goal is find a job in a company as a Jr. FrontEnd Developer. Become a part of a great team and grow creating and developing applications, solutions and webs.</p>
 
-<span>My pronouns: He/Him.</span>
+<strong>My pronouns: He/Him.</strong>
 
-- ⚡ Fun fact: My first programming language was Python.
-- 📖 Actually Studying: MERN Stack
+- ⚡ <strong>Fun fact</strong>: My first programming language was Python. 🐍
+- 📖 <strong>Actually Studying</strong>: MERN Stack. ⚛️
 
 
 <h2 align="center">Skills</h2>
 
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/LaindomJS/LaindomJS/master/ikigai-office-worker-with-large-amount-of-work.png" width="260px" height="230px" />
-  <p align="center" font-weight="bold">This is a list of my skils and toolsk</p>
+  <img src="./assets/skill-illustration.png" />
+  <p align="center" font-weight="bold">This is a list of my skils and tools</p>
 
-  <img src="https://raw.githubusercontent.com/LaindomJS/LaindomJS/master/assets/html5.svg" width="65px" />
-  <img src="https://raw.githubusercontent.com/LaindomJS/LaindomJS/master/assets/CSS3.png" width="65px" />
-  <img src="https://raw.githubusercontent.com/LaindomJS/LaindomJS/master/assets/javascript.png" width="65px" />
-  <img src="https://raw.githubusercontent.com/LaindomJS/LaindomJS/master/typescript.svg" width="50px" />
-  <img src="https://raw.githubusercontent.com/LaindomJS/LaindomJS/master/assets/react-js.svg" width="55px" />
-  <img src="https://raw.githubusercontent.com/LaindomJS/LaindomJS/master/Svelte_Logo.svg" width="45px" />
-  <img src="https://raw.githubusercontent.com/LaindomJS/LaindomJS/master/Sass_Logo_Color.svg" width="55px" />
-  <img src="https://raw.githubusercontent.com/LaindomJS/LaindomJS/master/tailwindcss-icon.svg" width="55px" />
-  <img src="https://raw.githubusercontent.com/LaindomJS/LaindomJS/master/nodejs-icon.svg" width="45px" />
-  <img src="https://raw.githubusercontent.com/LaindomJS/LaindomJS/master/npm.svg" width="55px" />
-  <img src="https://raw.githubusercontent.com/LaindomJS/LaindomJS/master/visualstudiocode.svg" width="55px" />
-  <img src="https://raw.githubusercontent.com/LaindomJS/LaindomJS/master/vite-seeklogo.com.svg" width="55px" />
-  <img src="https://raw.githubusercontent.com/LaindomJS/LaindomJS/master/python-5.svg" width="55px" />
+  <img src="./skills/html5.svg" width="55px" />
+  <img src="./skills/CSS3.png" width="55px" />
+  <img src="./skills/javascript.png" width="55px" />
+  <img src="./skills/typescript.svg" width="45px" />
+  <img src="./skills/Sass.svg" width="45px" />
+  <img src="./skills/tailwindcss.svg" width="45px" />
+  <img src="./skills/react.svg" width="45px" />
+  <img src="./skills/Svelte.svg" width="45px" />
+  <img src="./skills/vite.svg" width="45px" />
+  <img src="./skills/nodejs.svg" width="45px" />
+  <img src="./skills/vscode.svg" width="45px" />
+  <img src="./skills/python.svg" width="45px" />
 </div>
 
 
