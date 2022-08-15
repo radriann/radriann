@@ -26,18 +26,18 @@
   <img src="./assets/skill-illustration.png" />
   <p align="center" font-weight="bold">This is a list of my skils and tools</p>
 
-  <img src="./skills/html5.svg" width="55px" />
-  <img src="./skills/CSS3.png" width="55px" />
-  <img src="./skills/javascript.png" width="55px" />
-  <img src="./skills/typescript.svg" width="45px" />
-  <img src="./skills/Sass.svg" width="45px" />
-  <img src="./skills/tailwindcss.svg" width="45px" />
-  <img src="./skills/react.svg" width="45px" />
-  <img src="./skills/Svelte.svg" width="45px" />
-  <img src="./skills/vite.svg" width="45px" />
-  <img src="./skills/nodejs.svg" width="45px" />
-  <img src="./skills/vscode.svg" width="45px" />
-  <img src="./skills/python.svg" width="45px" />
+  <img src="./skills/html5.svg" width="55px" alt="html"/>
+  <img src="./skills/CSS3.png" width="55px" alt="css" />
+  <img src="./skills/javascript.png" width="55px" alt="js" />
+  <img src="./skills/typescript.svg" width="45px" alt="ts" />
+  <img src="./skills/Sass.svg" width="45px" alt="sass" />
+  <img src="./skills/tailwindcss.svg" width="105px" alt="tailwindcss" />
+  <img src="./skills/react.svg" width="45px" alt="react" />
+  <img src="./skills/Svelte.svg" width="45px" alt="svelte" />
+  <img src="./skills/vite.svg" width="45px" alt="vite" />
+  <img src="./skills/nodejs.svg" width="45px" alt="nodejs" />
+  <img src="./skills/vscode.svg" width="45px" alt="vscode" />
+  <img src="./skills/python.svg" width="45px" alt="python" />
 </div>
 
 
