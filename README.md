@@ -1,7 +1,5 @@
+<h1>Hi! I'm Lain. FrontEnd Developer💻</h1>
 <img src="./assets/isaac.gif" width="30%" align="right">
-
-
-<h1 align="center">Hi! I'm Lain. FrontEnd Developer</h1> 
 
 - I love play videogames.👾,
 - Literature 📚,
