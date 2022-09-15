@@ -25,7 +25,7 @@
   <p align="center" font-weight="bold">My Stack of technologies:</p>
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,sass,tailwind,react,svelte,nodejs,vite,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,sass,tailwind,react,svelte,nodejs,express,vite,vscode" />
   </a>
 
 
