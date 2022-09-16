@@ -17,16 +17,42 @@
 - 📖 <strong>Actually Studying</strong>: MERN Stack. ⚛️
 
 
+
+
 <h2 align="center">Skills</h2>
+<img align="center" src="./assets/skill-illustration.png" />
+<p align="center" font-weight="bold">My Stack of technologies:</p>
 
 <div align="center">
 
-  <img src="./assets/skill-illustration.png" />
-  <p align="center" font-weight="bold">My Stack of technologies:</p>
-
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,python,sass,tailwind,ts,react,svelte,nodejs,vite,vscode" />
-  </a>
+  <table border>
+    <thead>
+      <tr>
+        <th>Languages</th>
+        <th>Frameworks</th>
+        <th>Tools</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>
+          <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=html,css,js,ts,python" />
+          </a>
+        </td>
+        <td>
+          <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=react,svelte,nodejs,express,tailwind,bootstrap" />
+          </a>
+        </td>
+        <td>
+          <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=vscode,git,github,vite" />
+          </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 
 
 </div>
