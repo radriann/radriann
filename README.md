@@ -1,7 +1,9 @@
 <h1>Hi! I'm Lain. FrontEnd Developer💻</h1>
 <img src="./assets/isaac.gif" width="30%" align="right">
 
-- I love play videogames.👾,
+<strong>I Love...</strong>
+
+- Play videogames.👾,
 - Literature 📚,
 - Programming 💻,
 - Puzzles 🤔,
@@ -9,7 +11,12 @@
 
 <p align="center">I am FrontEnd Developer specialized in technologies such as JavaScript, TypeScript, ReactJS, Svelte.</p>
 
-<p align="center">I love learning and putting into practice everything I learn, as well as helping others in whatever they need. My goal is find a job in a company as a Jr. FrontEnd Developer. Become a part of a great team and grow creating and developing applications, solutions and webs.</p>
+<p align="center">
+I love learning and putting into practice everything I learn, as well as helping others in whatever they need. 
+
+My goal is find a job in a company as a Jr. FrontEnd Developer. 
+Become a part of a great team and grow creating and developing applications, solutions and webs.
+</p>
 
 <strong>My pronouns: He/Him.</strong>
 
@@ -17,14 +24,11 @@
 - 📖 <strong>Actually Studying</strong>: MERN Stack. ⚛️
 
 
-
-
 <h2 align="center">Skills</h2>
 <img align="center" src="./assets/skill-illustration.png" />
 <p align="center" font-weight="bold">My Stack of technologies:</p>
 
 <div align="center">
-
   <table border>
     <thead>
       <tr>
@@ -53,8 +57,6 @@
       </tr>
     </tbody>
   </table>
-
-
 </div>
 
 
