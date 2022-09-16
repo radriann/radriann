@@ -23,10 +23,11 @@ Become a part of a great team and grow creating and developing applications, sol
 - ⚡ <strong>Fun fact</strong>: My first programming language was Python. 🐍
 - 📖 <strong>Actually Studying</strong>: MERN Stack. ⚛️
 
+<div align="center">
+  <h2 align="center">Skills</h2>
+  <img src="./assets/skill-illustration.png" />
+</div>
 
-<h2 align="center">Skills</h2>
-<img align="center" src="./assets/skill-illustration.png" />
-<p align="center" font-weight="bold">My Stack of technologies:</p>
 
 <div align="center">
   <table border>
