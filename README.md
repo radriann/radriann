@@ -52,7 +52,7 @@ Become a part of a great team and grow creating and developing applications, sol
         </td>
         <td>
           <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=vscode,git,github,vite" />
+            <img src="https://skillicons.dev/icons?i=vscode,git,github,vite,netlify,vercel" />
           </a>
         </td>
       </tr>
