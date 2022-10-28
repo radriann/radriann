@@ -47,7 +47,7 @@ Become a part of a great team and grow creating and developing applications, sol
         </td>
         <td>
           <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=react,svelte,nodejs,express,tailwind,bootstrap" />
+            <img src="https://skillicons.dev/icons?i=react,svelte,astro,nodejs,express,tailwind,bootstrap" />
           </a>
         </td>
         <td>
