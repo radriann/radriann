@@ -1,32 +1,17 @@
-<h1>Hi! I'm Lain. FrontEnd Developer💻</h1>
-<img src="./assets/isaac.gif" width="30%" align="right">
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Adrian (adr.ts)
+=======================================================================================================================================
 
-<strong>I Love...</strong>
+Web Developer in React.
+-----------------------
 
-- Play videogames.👾,
-- Literature 📚,
-- Programming 💻,
-- Puzzles 🤔,
-- Create solutions to problems. 🐱‍🏍
+I'm a Web Developer lover of the JavaScript Ecosystem, the web and technology in general. I love learning and putting into practice everything I learn, as well as helping others in whatever they need. My goal is find a job in a company as a FrontEnd Developer. Become a part of a great team and grow creating and developing applications, solutions and webs.
 
-<p align="center">I am FrontEnd Developer specialized in technologies such as JavaScript, TypeScript, ReactJS, Svelte.</p>
+* 🌍  I'm based in Venezuela
+* 🧠  I'm learning NextJS
+* 🤝  I'm open to collaborating on Collaborating Projects, Open Source, Mentoring
+* ⚡  My first programming language was Python
 
-<p align="center">
-I love learning and putting into practice everything I learn, as well as helping others in whatever they need. 
-
-My goal is find a job in a company as a Jr. FrontEnd Developer. 
-Become a part of a great team and grow creating and developing applications, solutions and webs.
-</p>
-
-<strong>My pronouns: He/Him.</strong>
-
-- ⚡ <strong>Fun fact</strong>: My first programming language was Python. 🐍
-- 📖 <strong>Actually Studying</strong>: MERN Stack. ⚛️
-
-<div align="center">
-  <h2 align="center">Skills</h2>
-  <img src="./assets/skill-illustration.png" />
-</div>
+### Skills
 
 
 <div align="center">
@@ -61,11 +46,14 @@ Become a part of a great team and grow creating and developing applications, sol
 </div>
 
 
-<h2 align="center">GitHub Stats</h2>
-<p>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=laindomJS&theme=dracula&date_format=j%20M%5B%20Y%5D&locale=es" />
-</p>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laindomJS&layout=compact">
-</p>
+### Socials
 
+<p align="left"> <a href="https://www.github.com/laindomJS" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/laindomJS"><img src="https://github-readme-stats.vercel.app/api?username=laindomJS&show_icons=true&hide=prs,issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="laindomJS's GitHub stats" /></a>
+
+<a href="https://github.com/laindomJS" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laindomJS&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
