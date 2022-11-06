@@ -27,7 +27,7 @@ I'm a Web Developer lover of the JavaScript Ecosystem, the web and technology in
       <tr>
         <td>
           <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=html,css,js,ts,python" />
+            <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,sass" />
           </a>
         </td>
         <td>
