@@ -1,8 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Adrian.
 =======================================================================================================================================
 
-Web Developer in React.
------------------------
+### Web Developer in React.
 
 I'm a Web Developer lover of the JavaScript Ecosystem, the web and technology in general. I love learning and putting into practice everything I learn, as well as helping others in whatever they need. My goal is find a job in a company as a FrontEnd Developer. Become a part of a great team and grow creating and developing applications, solutions and webs.
 
