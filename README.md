@@ -1,14 +1,24 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Adrian.
-=======================================================================================================================================
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Adrian. FrontEnd Developer ⚛
+===================================================================================================================================================
 
-### Web Developer in React.
+<table><tr><td valign="top" width="50%">
+  
+<h3 align="center">About me</h3>
 
-I'm a Web Developer lover of the JavaScript Ecosystem, the web and technology in general. I love learning and putting into practice everything I learn, as well as helping others in whatever they need. My goal is find a job in a company as a FrontEnd Developer. Become a part of a great team and grow creating and developing applications, solutions and webs.
+- I'm a computer engineering student 💻
+- Self-taught web developer who loves the JavaScript ecosystem 📚
+- I'm from Venezuela 🌎
+- The first language I studied was Python. 🐍
 
-* 🌍  I'm based in Venezuela
-* 🧠  I'm learning NextJS
-* 🤝  I'm open to collaborating on Collaborating Projects, Open Source, Mentoring
-* ⚡  My first programming language was Python
+</td><td valign="top" width="50%">
+
+<h3 align="center">Other curiosities</h3>
+<br />
+
+- 🏆 I have participated in the OpenBootcamp Hackathon, being a finalist with my project: [Buttons Generator](https://buttons-generator-laints.vercel.app)
+- I'm current learning: React+Redux & Databases
+<br />
+</tr></tr></table> 
 
 ### Skills
 
