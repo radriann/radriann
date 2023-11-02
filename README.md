@@ -36,7 +36,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
       <tr>
         <td>
           <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,sass" />
+            <img src="https://skillicons.dev/icons?i=html,css,js,ts,python" />
           </a>
         </td>
         <td>
@@ -63,6 +63,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/laindomJS"><img src="https://github-readme-stats.vercel.app/api?username=laindomJS&show_icons=true&hide=prs,issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="laindomJS's GitHub stats" /></a>
+<a href="http://www.github.com/radriann"><img src="https://github-readme-stats.vercel.app/api?username=radriann&show_icons=true&hide=prs,issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="radriann's GitHub stats" /></a>
 
-<a href="https://github.com/laindomJS" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laindomJS&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/radriann" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=radriann&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
